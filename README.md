@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sdahal249@gmail.com**
 
-- ⚡ Fun fact **I'm passionate about coding and continuously exploring new territories, from frameworks to web development, game development, and mobile development.**
+- ⚡ Fun fact **I'm passionate about coding and continuously exploring new territories, from frameworks in web development, game development, and mobile development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
