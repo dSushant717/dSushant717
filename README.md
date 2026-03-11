@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://github.com/dsushant717)
 <h1 align="center">Hi 👋, I'm Sushant.</h1>
-<h3 align="center">An aspiring web and game developer.</h3>
+<h3 align="center">Software Developer.</h3>
 <div align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFzbzljZHJzb2g4cmt4ajdtMzJnbDJsMW5vc2M2MmJ5YWR5bTZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" alt="coding gif">
 </div>
