@@ -8,8 +8,6 @@
 
 **Software Developer** · Building things for the web
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dsushant717&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dsushant717)
-
 </div>
 
 ---
