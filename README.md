@@ -8,6 +8,7 @@
 
 **Software Developer** · Building things for the web
 
+[![Profile Views](https://komarev.com/ghpvc/?username=dsushant717&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dsushant717)
 
 </div>
 
@@ -16,6 +17,7 @@
 ### 🙋 About Me
 
 I'm a software developer who enjoys building across the full stack — from interactive UIs in React to backend logic in Node.js and Java.
+
 - 🔭 Working on projects spanning **web & software development**
 - 🌱 Currently learning **Next.js & SpringBoot**
 - 💬 Ask me about **JavaScript, Python, or React**
@@ -50,6 +52,8 @@ I'm a software developer who enjoys building across the full stack — from inte
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dsushant717&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsushant717&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true)](https://github.com/dsushant717)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dsushant717&show_icons=true&locale=en&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5)](https://github.com/dsushant717)
 
