@@ -1,10 +1,11 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="coding" width="400"/>
+
 # Hi, I'm Sushant 👋
 
 **Software Developer** · Building things for the web
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dsushant717&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dsushant717)
 
 </div>
 
@@ -12,10 +13,13 @@
 
 ### 🙋 About Me
 
-- 🌱 Currently learning **Unity & C#**
-- 💬 Ask me about **JavaScript and Python**
+I'm a software developer who enjoys building across the full stack — from interactive UIs in React to backend logic in Node.js and Python. I'm currently diving into game development with **Unity & C#**, expanding my skill set beyond the web.
+
+- 🔭 Working on projects spanning **web development & game development**
+- 🌱 Currently learning **Next.js & SpringBoot**
+- 💬 Ask me about **JavaScript, Python, or React**
 - 📫 Reach me at **sdahal249@gmail.com**
-- ⚡ Fun fact: I'm always exploring new territories — web dev, game dev, and beyond
+- ⚡ I thrive at the intersection of creativity and code — whether that's a polished web app or an interactive game experience
 
 ---
 
@@ -44,8 +48,8 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dsushant717&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/dsushant717)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dsushant717&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsushant717&show_icons=true&locale=en&theme=tokyonight)](https://github.com/dsushant717)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dsushant717&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/dsushant717)
 
 </div>
