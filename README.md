@@ -4,6 +4,8 @@
 
 # Hi, I'm Sushant 👋
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFzbzljZHJzb2g4cmt4ajdtMzJnbDJsMW5vc2M2MmJ5YWR5bTZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" alt="coding gif" width="300"/>
+
 **Software Developer** · Building things for the web
 
 
@@ -13,9 +15,8 @@
 
 ### 🙋 About Me
 
-I'm a software developer who enjoys building across the full stack — from interactive UIs in React to backend logic in Node.js and Python. I'm currently diving into game development with **Unity & C#**, expanding my skill set beyond the web.
-
-- 🔭 Working on projects spanning **web development & game development**
+I'm a software developer who enjoys building across the full stack — from interactive UIs in React to backend logic in Node.js and Java.
+- 🔭 Working on projects spanning **web & software development**
 - 🌱 Currently learning **Next.js & SpringBoot**
 - 💬 Ask me about **JavaScript, Python, or React**
 - 📫 Reach me at **sdahal249@gmail.com**
