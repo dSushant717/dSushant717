@@ -49,8 +49,7 @@ I'm a software developer who enjoys building across the full stack — from inte
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dsushant717&theme=tokyonight)](https://git.io/streak-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dsushant717&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/dsushant717)
+https://github-readme-stats.vercel.app/api/top-langs?username=dsushant717&show_icons=true&locale=en&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5
 
 </div>
